@@ -1,0 +1,19 @@
+header{
+    text-align:center;
+    background-color: red;
+    color: white;
+}
+
+#custemfooter {
+    text-align: center;
+    background-color: blue;
+    color: black;
+}
+
+#first{
+    color: green;
+}
+
+.secound{
+    color:red;
+}
